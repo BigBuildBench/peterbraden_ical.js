@@ -16,7 +16,7 @@
     "url": "git://github.com/peterbraden/ical.js.git"
   },
   "devDependencies": {
-    "vows": "0.8.2",
+    "vows": "0.8.3",
     "underscore": "1.13.1"
   },
   "scripts": {
